@@ -55,5 +55,3 @@ On the frontend, the sidebar and chat window were built as separate components a
 ## Why I built this
 
 I wanted to actually understand what's happening behind a tool like ChatGPT — not just use it, but build the plumbing myself. Setting up the routes, connecting OpenAI's API properly, handling state on the frontend, getting the typing effect to feel right — all of it taught me a lot more than just reading about how these apps work.
-
-Still a work in progress. Open to feedback.
